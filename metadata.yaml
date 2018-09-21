@@ -1,0 +1,27 @@
+_repo: The-Redemption-of-Kenneth-Galt_54104
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harben, Will N. (Will Nathaniel)
+    alias: Harben, William Nathaniel
+    birthdate: 1858
+    deathdate: 1919
+    gutenberg_agent_id: '1923'
+    url: http://www.gutenberg.org/2009/agents/1923
+    wikipedia: https://en.wikipedia.org/wiki/William_Harben
+description: ''
+gutenberg_issued: '2017-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54104'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Georgia -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Redemption of Kenneth Galt
+url: http://www.gutenberg.org/ebooks/54104
