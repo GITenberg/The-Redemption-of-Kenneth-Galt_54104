@@ -1,5 +1,8 @@
 _repo: The-Redemption-of-Kenneth-Galt_54104
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54104-h/images/cover.jpg
 creator:
   author:
     agent_name: Harben, Will N. (Will Nathaniel)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1923
     wikipedia: https://en.wikipedia.org/wiki/William_Harben
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54104#The-Redemption-of-Kenneth-Galt
 gutenberg_issued: '2017-02-04'
 gutenberg_type: Text
 identifiers:
